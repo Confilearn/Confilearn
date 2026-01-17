@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Confilearn/Confilearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m Confidence, a fullstack mobile & web developer.
+- Committed to leveraging technology to create meaningful solutions and improve lives.
+- Dedicated to driving change and progress in the tech ecosystem.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Value's
+
+- Strong problem-solving skills and a knack for critical thinking.
+- Passionate about delivering efficient and elegant code.
+- Creative mindset that thrives on turning ideas into reality.
+- Ability to adapt and learn quickly in fast-paced environments.
+- Collaborative nature and a team player mentality.
+
+### Get in Touch
+
+- I'm always excited to connect with fellow developers, enthusiasts, and visionaries. [**Feel free to reach out to me**](https://confibiz.vercel.app) if you'd like to collaborate, discuss ideas, or simply have a chat.
+
