@@ -1,20 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-- I’m Confidence, a fullstack mobile & web developer.
-- Committed to leveraging technology to create meaningful solutions and improve lives.
-- Dedicated to driving change and progress in the tech ecosystem.
+I'm **Confidence** — a Fullstack Mobile & Web Developer.
 
+I build scalable, user-focused applications that solve real problems and create impact.
 
-### Value's ✅
+### ⚡ What I Bring
+- Strong problem-solving & critical thinking  
+- Clean, efficient, and scalable code  
+- Creative execution from idea → product  
+- Fast learner in dynamic environments  
+- Collaborative and team-driven mindset  
 
-- Strong problem-solving skills and a knack for critical thinking.
-- Passionate about delivering efficient and elegant code.
-- Creative mindset that thrives on turning ideas into reality.
-- Ability to adapt and learn quickly in fast-paced environments.
-- Collaborative nature and a team player mentality.
+### 🤝 Let’s Connect
+Open to collaborations, projects, and meaningful conversations.
 
-### Get in Touch 🤝
-
-- I'm always excited to connect with fellow developers, enthusiasts, and visionaries.
-- [**Feel free to reach out to me**](https://confibiz.vercel.app) if you'd like to collaborate, discuss ideas, or simply have a chat.
-
+Let’s build something great.
