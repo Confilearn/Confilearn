@@ -14,4 +14,4 @@ I build scalable, user-focused applications that solve real problems and create 
 ### 🤝 Let’s Connect
 Open to collaborations, projects, and meaningful conversations.
 
-Let’s build something great.
+Let’s build something great together.
