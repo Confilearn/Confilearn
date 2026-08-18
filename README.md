@@ -1,6 +1,6 @@
 # Hi, I'm Confidence 👋
 
-Full-stack developer building modern, scalable, and user-focused web experiences with **MERN, React, and Framer**.
+Full-stack developer building modern, scalable, and user-focused web experiences.
 
 ### What I Do
 - ⚡ Full-stack web development
