@@ -1,12 +1,13 @@
 # Hi, I'm Confidence 👋
 
-Full-stack developer focused on **MERN, React, Framer, and UI/UX**.
+Full-stack developer building modern, scalable, and user-focused web experiences with **MERN, React, and Framer**.
 
-I build modern web applications and high-quality digital experiences.
+### What I Do
+- ⚡ Full-stack web development
+- 🎨 UI/UX & modern web design
+- 🚀 Landing pages & business websites
+- 🛠️ React, Node.js, MongoDB & Framer
 
-### Tech
-React · Node.js · MongoDB · Express · Framer · Tailwind CSS
+Open to collaborations, freelance projects, and interesting ideas.
 
-Open to collaborations, freelance projects, and new opportunities.
-
-**Let's build. 🚀**
+**Let's build something great.**
