@@ -1,17 +1,12 @@
-## Hi there 👋
+# Hi, I'm Confidence 👋
 
-I'm **Confidence** — a Fullstack Mobile & Web Developer.
+Full-stack developer focused on **MERN, React, Framer, and UI/UX**.
 
-I build scalable, user-focused applications that solve real problems and create impact.
+I build modern web applications and high-quality digital experiences.
 
-### ⚡ What I Bring
-- Strong problem-solving & critical thinking  
-- Clean, efficient, and scalable code  
-- Creative execution from idea → product  
-- Fast learner in dynamic environments  
-- Collaborative and team-driven mindset  
+### Tech
+React · Node.js · MongoDB · Express · Framer · Tailwind CSS
 
-### 🤝 Let’s Connect
-Open to collaborations, projects, and meaningful conversations.
+Open to collaborations, freelance projects, and new opportunities.
 
-Let’s build something great together.
+**Let's build. 🚀**
